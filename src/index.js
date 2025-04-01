@@ -7,13 +7,13 @@ const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
   // production
-  "docker.closeai.me": dockerHub,
-  "quay.closeai.me": "https://quay.io",
-  "gcr.closeai.me": "https://gcr.io",
-  "k8s-gcr.closeai.me": "https://k8s.gcr.io",
-  "k8s.closeai.me": "https://registry.k8s.io",
-  "ghcr.closeai.me": "https://ghcr.io",
-  "cloudsmith.closeai.me": "https://docker.cloudsmith.io",
+  "docker.ciceng.net": dockerHub,
+  "quay.ciceng.net": "https://quay.io",
+  "gcr.ciceng.net": "https://gcr.io",
+  "k8s-gcr.ciceng.net": "https://k8s.gcr.io",
+  "k8s.ciceng.net": "https://registry.k8s.io",
+  "ghcr.ciceng.net": "https://ghcr.io",
+  "cloudsmith.ciceng.net": "https://docker.cloudsmith.io",
 
   // staging
   "docker-staging.closeai.me": dockerHub,
